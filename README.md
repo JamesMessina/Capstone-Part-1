@@ -11,8 +11,10 @@
 
     Currently I am only working on the discography, history, and pictures/videos portion of this entire app. Users will be able to search by band or individual artist. The search results will contain a link to the band(s)/artist(s) and when clicked the user will be directed to a page that contains a brief history, genre classification,  list of all albums (full-length, EP, singles, etc), band members with pics, awards/nominations, and videos/pics (in studio, tour, interviews, etc). Clicking on each album will bring user to a page with album cover/art, track listing, total length time and time of each song, release date, and label. The user could also click on a song to get a drop down and see the lyrics and play an audio clip (or just link to itunes). 
 
-    To access all this information the user will first need to signup for an account and then login with those credentials. A header will be at the top of every page that has links to the about me, home (search page), contact us, and then a menu/hamburger icon with options of posting new info and editing existing material. This will have to be verified through me before it can post. 
+    To access all this information the user will first need to signup for an account and then login with those credentials. A header will be at the top of every page that has links to the about me, home (search page), contact us, and then a menu/hamburger icon with options of going to the tablature part of the site.
 
 # Future enhancement
 
     - add option to menu/hamburger icon that gives users the ability to access the tablature part of the app. In here users will be able to search songs and find a tab for the specific instrument(s) they play, if available. They will also be able to post new tablatures and edit current ones. 
+
+    - add tour dates and trivia to each band page. 
